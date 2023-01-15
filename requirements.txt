@@ -1,0 +1,6 @@
+gunicorn
+flask
+numpy
+asyncio
+aioflask
+Flask[async]
